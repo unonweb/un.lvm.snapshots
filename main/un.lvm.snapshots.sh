@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# test
 # Script location variables
 SCRIPT_PATH="$(readlink -f "${BASH_SOURCE}")"
 SCRIPT_DIR=$(dirname -- "$(readlink -f "${BASH_SOURCE}")")
